@@ -1,0 +1,57 @@
+﻿<Window x:Class="SharedAudio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SharedAudio"
+        mc:Ignorable="d"
+        Title="SharedAudio" Height="450" Width="400">
+
+    <Window.Resources>
+        <local:BoolConverter x:Key="BoolConverter"></local:BoolConverter>
+    </Window.Resources>
+
+    <Border Padding="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <StackPanel>
+                    <CheckBox IsChecked="{Binding IsServer, Mode=TwoWay}" Content="Server" />
+                    <Border Padding="10 0 0 0">
+                        <StackPanel>
+                            <TextBlock Text="IP" Foreground="Black" Margin="0 5 0 0"/>
+                            <TextBox x:Name="IP_tb" Height="30" Text="{Binding IP, Mode=TwoWay}" IsEnabled="False"/>
+                            <TextBlock Text="Port" Foreground="Black"/>
+                            <TextBox x:Name="Port_tb" Height="30" Text="{Binding Port, Mode=TwoWay}"/>
+
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+                <StackPanel Margin="0 10 0 0">
+                    <CheckBox IsChecked="{Binding IsServer, Mode=TwoWay, Converter={StaticResource BoolConverter}, ConverterParameter=invert}" Content="Client" />
+                    <Border Padding="10 0 0 0">
+                        <StackPanel>
+                            <TextBlock Text="IP" Foreground="Black" Margin="0 5 0 0"/>
+                            <TextBox x:Name="IPClient_tb" Height="30" Text="{Binding IPClient, Mode=TwoWay}"/>
+                            <TextBlock Text="Port" Foreground="Black"/>
+                            <TextBox x:Name="PortClient_tb" Height="30" Text="{Binding PortClient, Mode=TwoWay}"/>
+
+                            <Button Margin="0 10 0 0" x:Name="Start_btn" Content="Start" Click="Start_btn_Click" Height="30"/>
+
+                            <TextBlock Margin="0 10 0 0" x:Name="Status" Text="{Binding Status}"  Foreground="Black" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Grid.Row="1" VerticalAlignment="Bottom">
+                <Border>
+                    <Button Content="Buy me a coffee ?" Background="Yellow" Height="30" Click="Donate_Click"/>
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\SharedAudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\sharedaudio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\sharedaudio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\basedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\basedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\boolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\boolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|c:\\users\\pc\\source\\repos\\sharedaudio\\sharedaudio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962741D-ACC1-4798-8FC4-D8527F0C6354}|SharedAudio\\SharedAudio.csproj|solutionrelative:sharedaudio\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:29:41.759Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharedAudio",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\SharedAudio.csproj",
+              "RelativeDocumentMoniker": "SharedAudio\\SharedAudio.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\SharedAudio.csproj",
+              "RelativeToolTip": "SharedAudio\\SharedAudio.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T05:21:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\BoolConverter.cs",
+              "RelativeDocumentMoniker": "SharedAudio\\BoolConverter.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\BoolConverter.cs",
+              "RelativeToolTip": "SharedAudio\\BoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:39:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SharedAudio\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\AssemblyInfo.cs",
+              "RelativeToolTip": "SharedAudio\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:37:46.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SharedAudio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\MainWindow.xaml",
+              "RelativeToolTip": "SharedAudio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T13:50:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\BaseDataContext.cs",
+              "RelativeDocumentMoniker": "SharedAudio\\BaseDataContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\BaseDataContext.cs",
+              "RelativeToolTip": "SharedAudio\\BaseDataContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIA4wF0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:06:56.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\ViewModel.cs",
+              "RelativeDocumentMoniker": "SharedAudio\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\ViewModel.cs",
+              "RelativeToolTip": "SharedAudio\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:04:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SharedAudio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SharedAudio\\SharedAudio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SharedAudio\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:50:05.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
